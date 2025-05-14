@@ -119,7 +119,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 For more information, you can contact the project maintainer at:
 
-- **GitHub**: [https://github.com/EpshitaNinawe](https://github.com/VanshikaPanjwani)
+- **GitHub**: [https://github.com/VanshikaPanjwani](https://github.com/VanshikaPanjwani)
 
 ---
 
