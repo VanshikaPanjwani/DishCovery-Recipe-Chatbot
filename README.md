@@ -27,7 +27,7 @@ Whether you're in the mood for something comforting or want to experiment with w
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/EpshitaNinawe/DishCovery-Recipe-Chatbot.git
+   git clone https://github.com/VanshikaPanjwani/DishCovery-Recipe-Chatbot.git
    cd DishCovery
    ```
 
