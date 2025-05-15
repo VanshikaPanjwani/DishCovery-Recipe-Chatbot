@@ -60,11 +60,11 @@ DishCovery/
 │   ├── models.py         # Database models
 │   ├── views.py          # Request handlers
 │   ├── urls.py           # URL routing
-│   ├── templates/        # HTML templates for rendering web pages
-│   ├── static/           # Static files (images, CSS, JavaScript)
 │   ├── data/             # Directory containing project data files
 │   │   └── food_data.csv # Contains data for recipes
 │   └── migrations/       # Database migration files
+│   ├── templates/        # HTML templates for rendering web pages
+│   ├── static/           # Static files (images, CSS, JavaScript)
 ├── userproject/          # Main project configuration
 │   ├── settings.py       # Project settings
 │   ├── urls.py           # Root URL configurations
